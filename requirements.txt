@@ -1,1 +1,2 @@
- 
+ # requirements.txt
+requests==2.31.0  # для работы с API (версия может отличаться)
